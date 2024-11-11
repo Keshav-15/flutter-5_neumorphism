@@ -10,7 +10,7 @@ This is a simple Flutter project demonstrating the **Neumorphism** design patter
 
 ## Screenshots
 
-![Neumorphism Screenshot](assets/images/neumorphism_demo.png)
+<img src="assets/images/Neumorphism_demo.png" width="30%" alt="Neumorphism Demo Screenshot"/>
 
 ## Getting Started
 
